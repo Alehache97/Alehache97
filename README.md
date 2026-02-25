@@ -55,12 +55,14 @@ Profesional en **Administración de Sistemas Informáticos** con experiencia en 
 
 ## 📊 GitHub stats
 
+## 📊 GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alehache97&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alehache97&show_icons=true&count_private=true&theme=tokyonight" alt="Alejandro's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alehache97&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alehache97&theme=tokyonight" alt="Alejandro's GitHub streak" />
 </p>
 
 ---
