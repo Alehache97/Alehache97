@@ -55,4 +55,4 @@ Profesional en **Administración de Sistemas Informáticos** con experiencia en 
 
 ## 🚀 Objetivo profesional
 
-Continuar desarrollándome como profesional en sistemas, cloud y DevOps, aprendiendo nuevas tecnologías y metodologías, mejorando mis habilidades en automatización e infraestructura, y compartiendo conocimientos con la comunidad técnica.
+Continuar creciendo como profesional en sistemas, cloud y DevOps, ampliando mis conocimientos en nuevas tecnologías y metodologías, perfeccionando mis competencias técnicas y contribuyendo al intercambio de conocimiento con la comunidad.
