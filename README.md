@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Profesional en **Administración de Sistemas Informáticos** con experiencia en la gestión de infraestructuras, redes, seguridad y servicios en entornos físicos y cloud. Apasionado por la tecnología y la automatización, actualmente desarrollo un portfolio para compartir conocimientos y proyectos prácticos.
+Profesional en **Administración de Sistemas Informáticos** con experiencia en la gestión de infraestructuras, redes, seguridad y servicios en entornos físicos y cloud. Apasionado por la tecnología y la automatización, actualmente desarrollo un portfolio para compartir conocimientos y proyectos prácticos en busca del continuo desarrollo profesional.
 
 ---
 
@@ -67,4 +67,4 @@ Profesional en **Administración de Sistemas Informáticos** con experiencia en 
 
 ## 🚀 Objetivo profesional
 
-Seguir creciendo en sistemas, cloud y DevOps, especializándome en **automatización, infraestructura como código y seguridad**, mientras comparto conocimientos y experiencias con la comunidad técnica.
+Continuar desarrollándome como profesional en sistemas, cloud y DevOps, aprendiendo nuevas tecnologías y metodologías, mejorando mis habilidades en automatización e infraestructura, y compartiendo conocimientos con la comunidad técnica.
