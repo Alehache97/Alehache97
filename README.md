@@ -23,9 +23,9 @@ Profesional en **Administración de Sistemas Informáticos** con experiencia en 
 ## 🧑‍💼 Perfil técnico
 
 - **Sistemas Operativos:** GNU/Linux (Debian, Ubuntu, RHEL, CentOS…), Windows Server  
-- **Redes:** VLAN, NAT, OSPF, IPv6, VPN, Linux Bridge, Cisco IOS  
+- **Redes:** VLAN, NAT, OSPF, IPv6, VPN, Linux Bridge, Cisco. 
 - **Seguridad:** Firewalls (iptables, nftables), OpenSSL, GPG, OpenVPN, WireGuard  
-- **Bases de datos:** SQL / NoSQL (MySQL, PostgreSQL, Oracle, MongoDB)  
+- **Bases de datos:** SQL / NoSQL, PLSQL (MySQL, PostgreSQL, Oracle, MongoDB)  
 - **Virtualización y cloud:** Proxmox, KVM, LXC, OpenStack, Google Cloud Platform (GCP)  
 - **DevOps / CI-CD:** Docker, Kubernetes, Jenkins, GitHub Actions  
 - **Infraestructura como Código:** Ansible, Terraform, Vagrant  
@@ -36,7 +36,7 @@ Profesional en **Administración de Sistemas Informáticos** con experiencia en 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,kubernetes,python,jenkins,ansible,terraform,vagrant,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,kubernetes,python,jenkins,ansible,terraform,openstack,gcp" />
 </p>
 
 ---
